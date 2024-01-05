@@ -28,8 +28,8 @@ Data Scientist||Translate data into decision||
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored.svg" width="48" height="48" alt="R" />
+      <a href="https://posit.co/download/rstudio-desktop/">
+        <img src="https://en.m.wikipedia.org/wiki/File:RStudio_logo_flat.svg" width="48" height="48" alt="R" />
       </a>
       <br>R
     </td>
