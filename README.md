@@ -11,7 +11,7 @@ Data Scientist||Translate data into decision||
                   src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="18" height="18"></a>  and  <a href="https://www.linkedin.com/in/ankit-kumar-bb2322171/" target="_blank" rel="noreferrer"><img
                   src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="18" height="18"></a>.
 *   I'm currently working at [Geodis](https://geodis.com/)
-*   <a href="https://www.github.com/ankit4488kumar" target="_blank" rel="noreferrer"><img
+*   <a href="https://github.com/ankit4488kumar?tab=followers" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ankit4488kumar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ---
 
