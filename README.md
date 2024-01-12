@@ -57,11 +57,17 @@ Data Scientist||Translate data into decision||
       </a>
       <br>AWS
     </td>
+  <td align="center" width="96">
+      <a href="https://airflow.apache.org/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/AirflowLogo.png" width="60" height="48" alt="Airflow" />
+      </a>
+      <br>Airflow
+    </td>
   </tr>
   <tr>
   <td align="center" width="96">
       <a href="https://www.mongodb.com/">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="40" height="48" alt="MongoDB" />
       </a>
       <br>MongoDB
     </td>
@@ -94,6 +100,12 @@ Data Scientist||Translate data into decision||
       </a>
       <br>Azure
     </td>
+    <td align="center" width="96">
+          <a href="https://www.docker.com/" >
+            <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="60" height="48" alt="Docker" />
+          </a>
+          <br>Docker
+        </td>
     </td>
   </tr>
 </table>
