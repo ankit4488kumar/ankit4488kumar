@@ -10,7 +10,7 @@ Data Scientist||Translate data into decision||
 *   ✉️  You can contact me at <a href="mailto:akki27raj@gmail.com" target="_blank" rel="noreferrer"><img
                   src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="18" height="18"></a>  and  <a href="https://www.linkedin.com/in/ankit-kumar-bb2322171/" target="_blank" rel="noreferrer"><img
                   src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="18" height="18"></a>.
-*   :rocket: I'm currently working at [Geodis](https://geodis.com/)
+*   :rocket: I'm currently working at [Smarten Spaces](https://smartenspaces.com/)
 *   <a href="https://github.com/ankit4488kumar?tab=followers" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ankit4488kumar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ---
