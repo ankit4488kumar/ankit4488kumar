@@ -4,7 +4,7 @@ Hi 👋 My name is Ankit Kumar
 Data Scientist
 --------------
 
-Data Scientist||Translate data into decision||
+Data Scientist||Gerenative AI||Translate data into decision||
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at <a href="mailto:akki27raj@gmail.com" target="_blank" rel="noreferrer"><img
