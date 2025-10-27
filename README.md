@@ -1,16 +1,16 @@
 Hi 👋 My name is Ankit Kumar
 ============================
 
-Data Scientist
+Data Scientist - Gen AI
 --------------
 
 Data Scientist||Gerenative AI||Translate data into decision||
 
-*   🌍  I'm based in India
+*   🌍  I'm based in Noida, India.
 *   ✉️  You can contact me at <a href="mailto:akki27raj@gmail.com" target="_blank" rel="noreferrer"><img
                   src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="18" height="18"></a>  and  <a href="https://www.linkedin.com/in/ankit-kumar-bb2322171/" target="_blank" rel="noreferrer"><img
                   src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="18" height="18"></a>.
-*   :rocket: I'm currently working at [Smarten Spaces](https://smartenspaces.com/)
+*   :rocket: I'm currently working at [Optum](https://www.optum.com/en/)
 *   <a href="https://github.com/ankit4488kumar?tab=followers" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/ankit4488kumar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ---
